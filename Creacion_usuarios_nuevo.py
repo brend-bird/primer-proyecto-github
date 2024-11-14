@@ -1,6 +1,12 @@
 import json
 import hashlib
 
+
+nueva_lista = [0, 1, 2, 3, 4, 5]
+for i in nueva_lista:
+    k += i
+    return k
+
 # Ruta del archivo JSON
 archivo_usuarios = "usuarios.json"
 
